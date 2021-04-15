@@ -1,11 +1,15 @@
 class Brick {
   constructor() {}
 
+  response() {
+    console.log("me too");
+  }
+
   talk() {
     console.log("I'm a brick.");
   }
 
-  response() {
-    console.log("me too");
+  walk() {
+    console.log("Tonk tonk tonk tonk");
   }
 }
