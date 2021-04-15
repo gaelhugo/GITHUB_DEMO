@@ -1,3 +1,5 @@
 class Bogdan {
   constructor() {}
+
+  setup() {}
 }
