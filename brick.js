@@ -12,4 +12,6 @@ class Brick {
   walk() {
     console.log("Tonk tonk tonk tonk");
   }
+
+  test() {}
 }
