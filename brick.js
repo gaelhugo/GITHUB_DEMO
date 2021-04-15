@@ -4,4 +4,6 @@ class Brick {
   simplification() {
     console.log("sorry good game");
   }
+
+  test() {}
 }
